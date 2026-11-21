@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Krishna Garg 👋</h1>
+<h1 align="center">Hi there, I'm Krishna Garg </h1>
 
 <h3 align="center">Sophomore @ Thapar Institute of Engineering and Technology | DSAI</h3>
 
@@ -17,17 +17,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Currently a **Sophomore** at **Thapar Institute of Engineering and Technology**, branch **DSAI (Data Science & Artificial Intelligence)**
-- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
-- 🌱 Currently strengthening my fundamentals in **C++**
-- 💡 Enjoy working on data-driven projects and exploring ML models
-- 📫 Reach me at **krishnagarg222008@gmail.com**
+-  Currently a **Sophomore** at **Thapar Institute of Engineering and Technology**, branch **DSAI (Data Science & Artificial Intelligence)**
+-  Passionate about **Artificial Intelligence** and **Machine Learning**
+-  Currently strengthening my fundamentals in **C++**
+-  Enjoy working on data-driven projects and exploring ML models
+-  Reach me at **krishnagarg222008@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Tools**
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kgarg-dev&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 📈 3D Contribution Graph
+###  3D Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kgarg-dev/kgarg-dev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D animated contribution graph" />
@@ -78,4 +78,4 @@
   <img src="https://komarev.com/ghpvc/?username=kgarg-dev&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
 </p>
 
-<p align="center"><i>Thanks for stopping by! Feel free to connect 🤝</i></p>
+<p align="center"><i>Thanks for stopping by! Feel free to connect </i></p>
